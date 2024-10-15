@@ -181,5 +181,5 @@ end
 
 
 ## **Proteus Simulation of the Project**
-![Picture11](https://github.com/user-attachments/assets/a5507252-ed76-493e-b5ed-6010eb18f1e7)
+![image](https://github.com/user-attachments/assets/85c1b1bc-b30c-4b68-975c-bb30d7c82036)
 
