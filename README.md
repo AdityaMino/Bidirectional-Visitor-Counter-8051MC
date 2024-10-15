@@ -180,7 +180,6 @@ end
 ```
 
 
+## **Proteus Simulation of the Project**
+![Picture11](https://github.com/user-attachments/assets/a5507252-ed76-493e-b5ed-6010eb18f1e7)
 
-![image](https://github.com/user-attachments/assets/50c2c007-2924-48dc-8b70-bff237bd0d99)
-
-**Proteus Simulation of the Project**
